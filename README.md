@@ -1,4 +1,4 @@
-## **Descontraído para o seu Projeto de Anime**
+## **Descontraído para o seu Projeto de Anime** - Imersão Dev com Google Gemini
 
 ### **O que é esse negócio?**
 
